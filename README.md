@@ -8,7 +8,17 @@ Status: beta / testing.
 
 ## Screenshots
 
-Screenshots coming soon.
+### Main window
+![Main window](assets/screenshots/main-window.png)
+
+### Setup wizard — detected monitors
+![Setup wizard detected monitors](assets/screenshots/setup-detect-monitors.png)
+
+### Setup wizard — current input values
+![Setup wizard current values](assets/screenshots/setup-current-values.png)
+
+### Setup wizard — target values
+![Setup wizard target values](assets/screenshots/setup-target-values.png)
 
 ## Features
 
