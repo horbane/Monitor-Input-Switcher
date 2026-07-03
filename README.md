@@ -54,10 +54,11 @@ After setup, each device can switch the monitors to the other device.
 
 ## Downloads
 
-Release downloads will be available from GitHub Releases.
+Download the latest beta from the [GitHub Releases](../../releases) page.
 
-- Installer: use GitHub Releases
-- Portable ZIP: use GitHub Releases
+Available builds:
+- Installer: recommended for most users
+- Portable ZIP: no installation required
 
 ## Build From Source
 
