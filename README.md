@@ -80,6 +80,10 @@ See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 - Switching back from the same device may not work after the monitor switches away.
 - Setup is required once per device.
 
+### Windows SmartScreen
+
+This beta build is not code-signed yet, so Windows may show a SmartScreen warning. This is expected for new unsigned apps.
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
