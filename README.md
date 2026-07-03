@@ -20,6 +20,9 @@ Status: beta / testing.
 ### Main window
 ![Main window](assets/screenshots/main-window.png)
 
+### Tray menu
+![Tray menu](assets/screenshots/tray-menu.png)
+
 ## Features
 
 - One-click monitor input switching
